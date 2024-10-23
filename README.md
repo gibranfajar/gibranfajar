@@ -1,6 +1,6 @@
 # Selamat Datang di Profil Saya! 👋
-![PHP](https://img.shields.io/badge/PHP-7.4-blue)
-![Laravel](https://img.shields.io/badge/Laravel-v8.0-orange)
+![PHP](https://img.shields.io/badge/PHP-8.3-blue)
+![Laravel](https://img.shields.io/badge/Laravel-v11.0-orange)
 
 ## Tentang Saya
 - 👨‍💻 Saya adalah seorang web programmer.
