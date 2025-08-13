@@ -5,9 +5,9 @@
 - 💬 Hubungi saya di gibransatritamaa@gmail.com.
 
 ## Teknologi yang Saya Gunakan
-- 🔧 Bahasa Pemrograman: Java, PHP, JavaScript, Go
-- ⚙️ Framework: Laravel, React
-- 🗄️ Database: MySQL, MariaDB, SQLServer
+- 🔧 Bahasa Pemrograman: PHP, JavaScript, Go
+- ⚙️ Framework: Laravel, React, NextJS
+- 🗄️ Database: MySQL, MariaDB, PostgreSQL, SQLServer
 - ☁️ Alat: Git, Docker
 
 ## Proyek Unggulan
