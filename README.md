@@ -15,3 +15,4 @@
 - [Mississippiladies](https://mississippiladies.com): Ini adalah project website e-commerce brand Mississippiladies.
 - [Queensland](https://queensland.id): Ini adalah project website e-commerce brand Queensland.
 - [AMS Member](https://www.member.amscorp.id/): Ini adalah project website app Membership AMS
+- [TernakSyams](https://ternaksyams.co.id): Ini adalah project E-Commerce brand TernakSyams susu kambing
