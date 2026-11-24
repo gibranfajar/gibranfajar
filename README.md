@@ -6,7 +6,7 @@
 
 Saya seorang **web programmer** yang senang membangun aplikasi web dari ujung ke ujung, mulai dari merancang database dan menulis API sampai membuat tampilan yang nyaman dipakai dan men-deploy aplikasi ke server produksi. Sehari-hari saya banyak mengerjakan **platform e-commerce** dan **aplikasi bisnis** untuk berbagai brand, dengan fokus pada kode yang rapi, performa yang stabil, dan sistem yang mudah dirawat.
 
-Selain bekerja, saya juga sedang menempuh studi **Teknik Informatika di STT Terpadu Nurul Fikri**.
+Selain bekerja, saya juga sedang menempuh studi **Teknik Informatika di UNIVERSITAS INDRAPRASTA PGRI**.
 
 ---
 
@@ -72,7 +72,7 @@ Website e-commerce brand **TernakSyams**, produsen susu kambing. Menghadirkan ka
 ## 📊 Statistik GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gibranfajar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gibranfajar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibranfajar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
